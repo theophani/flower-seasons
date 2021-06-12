@@ -1,2 +1,3 @@
-# flower-seasons
-Web app that allows you to explore the flower seasons
+# Flower Seasons
+
+Web app that allows you to explore the flower seasons.
